@@ -1,3 +1,7 @@
+| :warning: This project is no longer actively supported.
+| ---
+
+
 ## Up for a challenge?
 The purpose of this repo is to provide folks an opportunity to evaluate Inspect's motion functionality (now in private beta!) 🎉🎉🎉 There are two animations inside the attached Studio file. See if you can implement both to 100% accuracy using Inspect Motion. 
 
